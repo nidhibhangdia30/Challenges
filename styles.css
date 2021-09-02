@@ -1,0 +1,140 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body{
+  font-size: 18px !important;
+}
+.navbar{
+  background-color: #ffffff;
+  font-size: 20px;
+}
+
+.container{
+  margin: 150px 50px 100px 0;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.container-fluid{
+  margin-top: 30px;
+}
+
+.navbar-brand{
+  margin-left: 150px;
+}
+
+.navbar-nav{
+  margin-left: 600px;
+
+}
+.nav-item{
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: bold;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.nav-item a{
+  color: #302E2E !important;
+}
+
+.nav-item a:hover{
+  color: #7B7878 !important;
+    text-decoration: underline;
+}
+
+.navigation-item{
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: bold;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.navigation-item a {
+  color: #B9B9B9 !important;
+}
+
+.navigation-item a:hover {
+  color: #D1D1D1 !important;
+  text-decoration: underline;
+}
+
+.dot{
+  width: 8px;
+  height: 8px;
+  background-color: #d1d1d1;
+  border-radius: 100%;
+  display: inline-block;
+  margin-top: 16px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.button {
+  border: none;
+  padding-left: 12px;
+  padding-right: 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: bold;
+}
+
+.button5{
+  border-radius:40%;
+  background-color: #000;
+  color: white;
+}
+
+.section{
+  display: inline-block;
+  font-size: 16px;
+  letter-spacing: 5px;
+
+}
+
+.first-section{
+  font-family: 'Barlow Condensed', sans-serif;
+}
+
+.first-section h1{
+  font-weight: bold;
+  font-size: 4rem !important;
+}
+
+.same-color{
+  color: #b3b3b3;
+  margin: 10px;
+
+}
+
+.text{
+  font-size: 18px;
+  color: #7a7a7a;
+  font-family: 'Barlow', sans-serif;
+  font-weight: 200;
+}
+
+.schedule{
+  background-color: #EE7979;
+  color: #fff;
+  font-weight: 500;
+  padding: 10px 20px 10px 20px;
+  border-radius: 12px;
+  border:none;
+  text-align: center;
+  display: inline-block;
+  font-family: 'Barlow Condensed', sans-serif;
+  letter-spacing: 2px;
+  margin-right: 10px;
+}
+
+.column1{
+  margin-left: 100px;
+}
+
+.column2{
+  margin-left: -150px;
+}
